@@ -3,7 +3,8 @@ Betta fish website
 Pls report any bug below here 
 
 Bug
-1.
+
+1. Gap in mobile view (By cool wei)
 
 2.
 
@@ -12,6 +13,7 @@ Bug
 
 
 Big change 
+
 1.
 
 2.
