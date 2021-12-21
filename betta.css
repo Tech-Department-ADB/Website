@@ -65,8 +65,13 @@ nav .fa{
 }
 
 @media(max-width: 700px){
+   
+    html, body {overflow-x: hidden;}
+
     body
     {
+        /*this code is useless cus it have been replace by (html, body {overflow-x: hidden;}) 
+        but better to just put it here -CW*/
         overflow-x: hidden;
         overflow-y: visible;
     }
