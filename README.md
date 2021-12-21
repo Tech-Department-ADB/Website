@@ -5,7 +5,7 @@ Pls report any bug below here
 
 Bug
 
-1. Gap in mobile view (By cool wei)
+1. Gap in mobile view (By cool wei) (DONE FIX)
 
 2.
 
