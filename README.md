@@ -15,7 +15,7 @@ Bug
 
 Big change 
 
-1.
+1.small change haha add a line and some picuture.NOTE: I forget to change the filename that i upload
 
 2.
 
