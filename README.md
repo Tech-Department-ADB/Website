@@ -15,8 +15,8 @@ Bug
 
 Big change 
 
-1.small change haha add a line and some picuture.NOTE: I forget to change the filename that i upload
+1. small change haha add a line and some picuture.NOTE: I forget to change the filename that i upload
 
-2.
+2. Good job. But next time just edit the file instead of uploading a new file - CW
 
 3.
